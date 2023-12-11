@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jasminetpm
 - 👀 I’m interested in full stack development, creating web apps and travel.
 - 🌱 I’m currently learning Javascript and the MERN Stack.
-- 💞️ I’m looking to collaborate on my passion project of a clothes rental webapp.
+- 👾 I also enjoy analysing data to find insights and solve problems.
 - 📫 You can reach me at jasmine.tpm@gmail.com
 
 <!---
